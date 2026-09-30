@@ -1,0 +1,11 @@
+# OPTIONAL — fully local embeddings (legacy behaviour).
+#
+# Only needed if you set EMBEDDING_PROVIDER=local. This installs
+# Sentence-Transformers and PyTorch (a large download, and on Linux x86_64
+# the default torch wheel bundles CUDA/NVIDIA libraries — several GB).
+# You almost certainly do NOT want this on a small VM: the default
+# `gemini` provider (or any OpenAI-compatible endpoint, incl. local
+# Ollama) avoids it entirely.
+#
+# Install with:  pip install -r requirements-local.txt
+sentence-transformers>=3.0
