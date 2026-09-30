@@ -11,5 +11,5 @@ page numbers, and short excerpts. Nothing is stored in the cloud: your PDFs and 
 index live on your machine.
 
 Inspired by NotebookLM-style document Q&A. Built with Python + Flask and a vanilla
-HTML/CSS/JavaScript frontend.
+HTML/CSS/JavaScript
 
