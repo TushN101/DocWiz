@@ -1,8 +1,11 @@
 # DocWiz 📄
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4909feb0-0267-47ce-bc04-95d2759a8833" width="48%" />
-  <img src="https://github.com/user-attachments/assets/fb02a353-8cbe-4b1e-a876-253278024585" width="48%" />
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/4909feb0-0267-47ce-bc04-95d2759a8833" width="75%" />
+</p>
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/fb02a353-8cbe-4b1e-a876-253278024585" width="75%" />
 </p>
 
 **A local, private "chat with your PDFs" assistant.** Upload a few PDFs, ask questions in plain
