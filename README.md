@@ -1,4 +1,4 @@
-# DocWiz 📄
+# DocWiz
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/4909feb0-0267-47ce-bc04-95d2759a8833" width="75%" />
